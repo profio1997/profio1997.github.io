@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Carnegie Mellon University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Chicago, Illinois</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,22 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+TL;DR: Customer-oriented technology professional with 10 years’ experience building and scaling innovative solutions at the intersection of computational neuroscience, biomedical informatics and AI/ML architecture.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Highlights:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- Managed and scaled ServiceNow products to over 10,000 global users by integrating enterprise platforms (e.g. Palantir, SAP) to boost asset discovery and reduce downtime. Partnered with the AI/ML team to define, validate, and deploy use cases, introducing cost savings and reducing inefficiency.
+
+- Built and scaled ML/AI products that reduce costs, alleviate clinician burnout, and improve user experience. Prioritized 50+ high-yield use cases through a comprehensive product roadmap and delivery strategy, and led the creation of a user feedback pipeline to enable iterative improvements.
+
+- Led an ML/AI research initiative at Workday to reduce costs, mitigate enterprise risk, and enhance user experience for 70M+ users globally. Developed a detailed market map and identified 8 strategic partnerships aligned with organizational objectives.
+
+- Led the development of open-source ML/AI products that lowered costs and improved accessibility for global academic and industry organizations. Achieved a 60% increase in user engagement and doubled team size by hosting technical seminars, leading agile sprints, and executing strategic outreach. 
+
+- Built and scaled an eCommerce SaaS platform connecting art buyers and commissioners with creators. Improved transaction efficiency and boosted user satisfaction by redesigning inventory management systems based on user analytics and feedback, while increasing customer retention through targeted outreach and self-service onboarding.
+
+- Co-led the global launch of 2 pharmaceutical products with a $20M+ budget at Labcorp, driving increased client market share and improved ophthalmology patient outcomes. Managed a global training initiative with a $200K+ budget, achieving high satisfaction scores and optimizing compliance processes to reduce audit preparation time.
+
+- Co-led the development of regenerative medicine products at the Wisconsin Institute for Medical Research that enhanced the effectiveness of heart disease treatment. Co-authored a publication cited by 30+ academic and industry organizations, including the American Heart Association, and developed data analytics workflows that reduced processing time, improved data accuracy and quality.
+
+Connect with me at luke@profio.us
