@@ -1,14 +1,22 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - profio1997
+  - ledprofio
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ledprofio/Gallify_App
+  - ledprofio/Gallify_Website
+  - ledprofio/UWCS_Alumni_Website
+  - profio1997/profio1997.github.io
+  - profio1997/Lung_Cancer_Detection
+  - ledprofio/LRRF_Model_Comparison_Solubility
+  - ledprofio/Image_Classifier_Model
+  - ledprofio/Finance_Analytical_Models
+  - ledprofio/Prog_R_Python_HW2
+  - ledprofio/Prog_R_Python_HW3
+  - ledprofio/Prog_R_Python_HW4
+  - ledprofio/Prog_R_Python_HW5
+  - ledprofio/Credit_Card_Clustering_Analysis
+  - ledprofio/Lab2_Scholastic_Classification_Modeling
+
